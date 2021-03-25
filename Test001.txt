@@ -6,3 +6,5 @@ test-7 как вернуть коммит
 
 Test-9 Git revert v.4
 -----------------
+
+Test-10 add new branch
