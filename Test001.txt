@@ -11,3 +11,4 @@ Test-10 add new branch
 Test-11 -\\-
 
 Test-12 Non fast forward merge
+Test-13 conflict
