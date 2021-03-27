@@ -13,3 +13,6 @@ Test-11 -\\-
 Test-12 Non fast forward merge
 
 Test-13 Conflict v1
+
+Test-13 conflict v2
+
